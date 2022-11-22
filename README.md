@@ -8,3 +8,5 @@ Input parameters and units: temperature (K), pressure (MPa), bulk density of wat
 Output parameters and units: confined density of water (Kg/m^3)
 
 The best prediction range of input parameters: temperature (600-1173 K), pressure (20-30 MPa), diameter (9.49-50.17 Å), bulk density of water (37.77-699.47 Kg/m^3)
+
+The origin MD data can be found in excel file.
