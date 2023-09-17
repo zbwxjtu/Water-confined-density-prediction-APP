@@ -13,6 +13,6 @@ Output parameters and units: confined density of water (kg/m^3) and efficient co
 
 The best prediction range of input parameters: temperature (600-1173 K, and 300 K), pressure (20-30 MPa, and 1 atm), diameter (9.49-50.17 Å).
 
-The origin MD data can be found in excel file (DATA_SET.xlsx). User can use "APP_ML_predict_CNT_confined_density.mlappinstall" file to install this APP in MATLB, or use "APP_ML_predict_CNT_confined_density.mlapp" and "net.mat" to directly use this APP in MATLAB.
+The origin MD data can be found in excel file (DATA_SET.xlsx). User can use "APP_ML_predict_CNT_confined_density.mlappinstall" file to install this APP in MATLB, or use "APP_ML_predict_CNT_confined_density.mlapp" and "net.mat" file to directly use this APP in MATLAB.
 
 If you have any questions, please contact zbwxjtu@163.com.
