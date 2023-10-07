@@ -14,3 +14,7 @@ The best prediction range of input parameters: temperature (600-1173 K, and 300 
 The origin MD data can be found in excel file (DATA_SET.xlsx). User can use "APP_ML_predict_CNT_confined_density.mlappinstall" file to install this APP in MATLB, or use "APP_ML_predict_CNT_confined_density.mlapp" and "net.mat" file to directly use this APP in MATLAB.
 
 If you have any questions, please contact zbwxjtu@163.com.
+
+Please cite this paper if you use this app or data.
+
+Zhang, Bowei, et al. "An investigation of the density of nano-confined subcritical/supercritical water." Energy (2023): 129185.
